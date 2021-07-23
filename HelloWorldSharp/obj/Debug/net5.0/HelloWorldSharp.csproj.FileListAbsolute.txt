@@ -1,0 +1,16 @@
+D:\pessoal\curso_csharp\HelloWorldSharp\obj\Debug\net5.0\HelloWorldSharp.csproj.AssemblyReference.cache
+D:\pessoal\curso_csharp\HelloWorldSharp\obj\Debug\net5.0\HelloWorldSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\pessoal\curso_csharp\HelloWorldSharp\obj\Debug\net5.0\HelloWorldSharp.AssemblyInfoInputs.cache
+D:\pessoal\curso_csharp\HelloWorldSharp\obj\Debug\net5.0\HelloWorldSharp.AssemblyInfo.cs
+D:\pessoal\curso_csharp\HelloWorldSharp\obj\Debug\net5.0\HelloWorldSharp.csproj.CoreCompileInputs.cache
+D:\pessoal\curso_csharp\HelloWorldSharp\bin\Debug\net5.0\HelloWorldSharp.exe
+D:\pessoal\curso_csharp\HelloWorldSharp\bin\Debug\net5.0\HelloWorldSharp.deps.json
+D:\pessoal\curso_csharp\HelloWorldSharp\bin\Debug\net5.0\HelloWorldSharp.runtimeconfig.json
+D:\pessoal\curso_csharp\HelloWorldSharp\bin\Debug\net5.0\HelloWorldSharp.runtimeconfig.dev.json
+D:\pessoal\curso_csharp\HelloWorldSharp\bin\Debug\net5.0\HelloWorldSharp.dll
+D:\pessoal\curso_csharp\HelloWorldSharp\bin\Debug\net5.0\ref\HelloWorldSharp.dll
+D:\pessoal\curso_csharp\HelloWorldSharp\bin\Debug\net5.0\HelloWorldSharp.pdb
+D:\pessoal\curso_csharp\HelloWorldSharp\obj\Debug\net5.0\HelloWorldSharp.dll
+D:\pessoal\curso_csharp\HelloWorldSharp\obj\Debug\net5.0\ref\HelloWorldSharp.dll
+D:\pessoal\curso_csharp\HelloWorldSharp\obj\Debug\net5.0\HelloWorldSharp.pdb
+D:\pessoal\curso_csharp\HelloWorldSharp\obj\Debug\net5.0\HelloWorldSharp.genruntimeconfig.cache

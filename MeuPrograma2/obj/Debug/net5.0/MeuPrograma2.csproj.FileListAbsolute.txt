@@ -1,0 +1,16 @@
+D:\pessoal\curso_csharp\MeuPrograma2\bin\Debug\net5.0\MeuPrograma2.exe
+D:\pessoal\curso_csharp\MeuPrograma2\bin\Debug\net5.0\MeuPrograma2.deps.json
+D:\pessoal\curso_csharp\MeuPrograma2\bin\Debug\net5.0\MeuPrograma2.runtimeconfig.json
+D:\pessoal\curso_csharp\MeuPrograma2\bin\Debug\net5.0\MeuPrograma2.runtimeconfig.dev.json
+D:\pessoal\curso_csharp\MeuPrograma2\bin\Debug\net5.0\MeuPrograma2.dll
+D:\pessoal\curso_csharp\MeuPrograma2\bin\Debug\net5.0\ref\MeuPrograma2.dll
+D:\pessoal\curso_csharp\MeuPrograma2\bin\Debug\net5.0\MeuPrograma2.pdb
+D:\pessoal\curso_csharp\MeuPrograma2\obj\Debug\net5.0\MeuPrograma2.csproj.AssemblyReference.cache
+D:\pessoal\curso_csharp\MeuPrograma2\obj\Debug\net5.0\MeuPrograma2.GeneratedMSBuildEditorConfig.editorconfig
+D:\pessoal\curso_csharp\MeuPrograma2\obj\Debug\net5.0\MeuPrograma2.AssemblyInfoInputs.cache
+D:\pessoal\curso_csharp\MeuPrograma2\obj\Debug\net5.0\MeuPrograma2.AssemblyInfo.cs
+D:\pessoal\curso_csharp\MeuPrograma2\obj\Debug\net5.0\MeuPrograma2.csproj.CoreCompileInputs.cache
+D:\pessoal\curso_csharp\MeuPrograma2\obj\Debug\net5.0\MeuPrograma2.dll
+D:\pessoal\curso_csharp\MeuPrograma2\obj\Debug\net5.0\ref\MeuPrograma2.dll
+D:\pessoal\curso_csharp\MeuPrograma2\obj\Debug\net5.0\MeuPrograma2.pdb
+D:\pessoal\curso_csharp\MeuPrograma2\obj\Debug\net5.0\MeuPrograma2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\pessoal\curso_csharp\MeuPrograma14\obj\Debug\net5.0\MeuPrograma14.csproj.AssemblyReference.cache
+D:\pessoal\curso_csharp\MeuPrograma14\obj\Debug\net5.0\MeuPrograma14.GeneratedMSBuildEditorConfig.editorconfig
+D:\pessoal\curso_csharp\MeuPrograma14\obj\Debug\net5.0\MeuPrograma14.AssemblyInfoInputs.cache
+D:\pessoal\curso_csharp\MeuPrograma14\obj\Debug\net5.0\MeuPrograma14.AssemblyInfo.cs
+D:\pessoal\curso_csharp\MeuPrograma14\obj\Debug\net5.0\MeuPrograma14.csproj.CoreCompileInputs.cache
+D:\pessoal\curso_csharp\MeuPrograma14\bin\Debug\net5.0\MeuPrograma14.exe
+D:\pessoal\curso_csharp\MeuPrograma14\bin\Debug\net5.0\MeuPrograma14.deps.json
+D:\pessoal\curso_csharp\MeuPrograma14\bin\Debug\net5.0\MeuPrograma14.runtimeconfig.json
+D:\pessoal\curso_csharp\MeuPrograma14\bin\Debug\net5.0\MeuPrograma14.runtimeconfig.dev.json
+D:\pessoal\curso_csharp\MeuPrograma14\bin\Debug\net5.0\MeuPrograma14.dll
+D:\pessoal\curso_csharp\MeuPrograma14\bin\Debug\net5.0\ref\MeuPrograma14.dll
+D:\pessoal\curso_csharp\MeuPrograma14\bin\Debug\net5.0\MeuPrograma14.pdb
+D:\pessoal\curso_csharp\MeuPrograma14\obj\Debug\net5.0\MeuPrograma14.dll
+D:\pessoal\curso_csharp\MeuPrograma14\obj\Debug\net5.0\ref\MeuPrograma14.dll
+D:\pessoal\curso_csharp\MeuPrograma14\obj\Debug\net5.0\MeuPrograma14.pdb
+D:\pessoal\curso_csharp\MeuPrograma14\obj\Debug\net5.0\MeuPrograma14.genruntimeconfig.cache

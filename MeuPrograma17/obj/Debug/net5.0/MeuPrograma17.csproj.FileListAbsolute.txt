@@ -1,0 +1,16 @@
+D:\pessoal\curso_csharp\MeuPrograma17\bin\Debug\net5.0\MeuPrograma17.exe
+D:\pessoal\curso_csharp\MeuPrograma17\bin\Debug\net5.0\MeuPrograma17.deps.json
+D:\pessoal\curso_csharp\MeuPrograma17\bin\Debug\net5.0\MeuPrograma17.runtimeconfig.json
+D:\pessoal\curso_csharp\MeuPrograma17\bin\Debug\net5.0\MeuPrograma17.runtimeconfig.dev.json
+D:\pessoal\curso_csharp\MeuPrograma17\bin\Debug\net5.0\MeuPrograma17.dll
+D:\pessoal\curso_csharp\MeuPrograma17\bin\Debug\net5.0\ref\MeuPrograma17.dll
+D:\pessoal\curso_csharp\MeuPrograma17\bin\Debug\net5.0\MeuPrograma17.pdb
+D:\pessoal\curso_csharp\MeuPrograma17\obj\Debug\net5.0\MeuPrograma17.csproj.AssemblyReference.cache
+D:\pessoal\curso_csharp\MeuPrograma17\obj\Debug\net5.0\MeuPrograma17.GeneratedMSBuildEditorConfig.editorconfig
+D:\pessoal\curso_csharp\MeuPrograma17\obj\Debug\net5.0\MeuPrograma17.AssemblyInfoInputs.cache
+D:\pessoal\curso_csharp\MeuPrograma17\obj\Debug\net5.0\MeuPrograma17.AssemblyInfo.cs
+D:\pessoal\curso_csharp\MeuPrograma17\obj\Debug\net5.0\MeuPrograma17.csproj.CoreCompileInputs.cache
+D:\pessoal\curso_csharp\MeuPrograma17\obj\Debug\net5.0\MeuPrograma17.dll
+D:\pessoal\curso_csharp\MeuPrograma17\obj\Debug\net5.0\ref\MeuPrograma17.dll
+D:\pessoal\curso_csharp\MeuPrograma17\obj\Debug\net5.0\MeuPrograma17.pdb
+D:\pessoal\curso_csharp\MeuPrograma17\obj\Debug\net5.0\MeuPrograma17.genruntimeconfig.cache
