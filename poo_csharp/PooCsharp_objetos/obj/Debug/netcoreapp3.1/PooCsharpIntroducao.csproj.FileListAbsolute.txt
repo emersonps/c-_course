@@ -1,0 +1,13 @@
+D:\pessoal\poo_csharp\PooCsharp_objetos\bin\Debug\netcoreapp3.1\PooCsharpIntroducao.exe
+D:\pessoal\poo_csharp\PooCsharp_objetos\bin\Debug\netcoreapp3.1\PooCsharpIntroducao.deps.json
+D:\pessoal\poo_csharp\PooCsharp_objetos\bin\Debug\netcoreapp3.1\PooCsharpIntroducao.runtimeconfig.json
+D:\pessoal\poo_csharp\PooCsharp_objetos\bin\Debug\netcoreapp3.1\PooCsharpIntroducao.runtimeconfig.dev.json
+D:\pessoal\poo_csharp\PooCsharp_objetos\bin\Debug\netcoreapp3.1\PooCsharpIntroducao.dll
+D:\pessoal\poo_csharp\PooCsharp_objetos\bin\Debug\netcoreapp3.1\PooCsharpIntroducao.pdb
+D:\pessoal\poo_csharp\PooCsharp_objetos\obj\Debug\netcoreapp3.1\PooCsharpIntroducao.csproj.AssemblyReference.cache
+D:\pessoal\poo_csharp\PooCsharp_objetos\obj\Debug\netcoreapp3.1\PooCsharpIntroducao.AssemblyInfoInputs.cache
+D:\pessoal\poo_csharp\PooCsharp_objetos\obj\Debug\netcoreapp3.1\PooCsharpIntroducao.AssemblyInfo.cs
+D:\pessoal\poo_csharp\PooCsharp_objetos\obj\Debug\netcoreapp3.1\PooCsharpIntroducao.csproj.CoreCompileInputs.cache
+D:\pessoal\poo_csharp\PooCsharp_objetos\obj\Debug\netcoreapp3.1\PooCsharpIntroducao.dll
+D:\pessoal\poo_csharp\PooCsharp_objetos\obj\Debug\netcoreapp3.1\PooCsharpIntroducao.pdb
+D:\pessoal\poo_csharp\PooCsharp_objetos\obj\Debug\netcoreapp3.1\PooCsharpIntroducao.genruntimeconfig.cache

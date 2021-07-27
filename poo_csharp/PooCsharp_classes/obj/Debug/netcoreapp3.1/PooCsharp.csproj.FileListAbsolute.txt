@@ -1,0 +1,13 @@
+D:\pessoal\PooCsharp\PooCsharp\bin\Debug\netcoreapp3.1\PooCsharp.exe
+D:\pessoal\PooCsharp\PooCsharp\bin\Debug\netcoreapp3.1\PooCsharp.deps.json
+D:\pessoal\PooCsharp\PooCsharp\bin\Debug\netcoreapp3.1\PooCsharp.runtimeconfig.json
+D:\pessoal\PooCsharp\PooCsharp\bin\Debug\netcoreapp3.1\PooCsharp.runtimeconfig.dev.json
+D:\pessoal\PooCsharp\PooCsharp\bin\Debug\netcoreapp3.1\PooCsharp.dll
+D:\pessoal\PooCsharp\PooCsharp\bin\Debug\netcoreapp3.1\PooCsharp.pdb
+D:\pessoal\PooCsharp\PooCsharp\obj\Debug\netcoreapp3.1\PooCsharp.csproj.AssemblyReference.cache
+D:\pessoal\PooCsharp\PooCsharp\obj\Debug\netcoreapp3.1\PooCsharp.AssemblyInfoInputs.cache
+D:\pessoal\PooCsharp\PooCsharp\obj\Debug\netcoreapp3.1\PooCsharp.AssemblyInfo.cs
+D:\pessoal\PooCsharp\PooCsharp\obj\Debug\netcoreapp3.1\PooCsharp.csproj.CoreCompileInputs.cache
+D:\pessoal\PooCsharp\PooCsharp\obj\Debug\netcoreapp3.1\PooCsharp.dll
+D:\pessoal\PooCsharp\PooCsharp\obj\Debug\netcoreapp3.1\PooCsharp.pdb
+D:\pessoal\PooCsharp\PooCsharp\obj\Debug\netcoreapp3.1\PooCsharp.genruntimeconfig.cache
