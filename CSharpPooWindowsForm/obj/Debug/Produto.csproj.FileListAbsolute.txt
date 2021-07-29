@@ -1,0 +1,4 @@
+D:\pessoal\curso_csharp\CSharpPooWindowsForm\obj\Debug\Produto.csproj.AssemblyReference.cache
+D:\pessoal\curso_csharp\CSharpPooWindowsForm\obj\Debug\Produto.Form1.resources
+D:\pessoal\curso_csharp\CSharpPooWindowsForm\obj\Debug\Produto.csproj.GenerateResource.cache
+D:\pessoal\curso_csharp\CSharpPooWindowsForm\obj\Debug\Produto.csproj.CoreCompileInputs.cache

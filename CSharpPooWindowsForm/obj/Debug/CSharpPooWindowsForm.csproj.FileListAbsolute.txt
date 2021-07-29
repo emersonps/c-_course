@@ -1,0 +1,9 @@
+D:\pessoal\curso_csharp\CSharpPooWindowsForm\obj\Debug\CSharpPooWindowsForm.csproj.AssemblyReference.cache
+D:\pessoal\curso_csharp\CSharpPooWindowsForm\obj\Debug\CSharpPooWindowsForm.Form1.resources
+D:\pessoal\curso_csharp\CSharpPooWindowsForm\obj\Debug\CSharpPooWindowsForm.csproj.GenerateResource.cache
+D:\pessoal\curso_csharp\CSharpPooWindowsForm\obj\Debug\CSharpPooWindowsForm.csproj.CoreCompileInputs.cache
+D:\pessoal\curso_csharp\CSharpPooWindowsForm\bin\Debug\CSharpPooWindowsForm.exe.config
+D:\pessoal\curso_csharp\CSharpPooWindowsForm\bin\Debug\CSharpPooWindowsForm.exe
+D:\pessoal\curso_csharp\CSharpPooWindowsForm\bin\Debug\CSharpPooWindowsForm.pdb
+D:\pessoal\curso_csharp\CSharpPooWindowsForm\obj\Debug\CSharpPooWindowsForm.exe
+D:\pessoal\curso_csharp\CSharpPooWindowsForm\obj\Debug\CSharpPooWindowsForm.pdb
