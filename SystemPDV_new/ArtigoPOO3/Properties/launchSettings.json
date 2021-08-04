@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ArtigoPOO3": {
+      "commandName": "Project",
+      "jsWebView2Debugging": false
+    }
+  }
+}

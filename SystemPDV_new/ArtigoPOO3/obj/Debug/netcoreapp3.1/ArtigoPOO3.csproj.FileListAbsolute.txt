@@ -1,0 +1,16 @@
+D:\pessoal\curso_csharp\SystemPDV_new\ArtigoPOO3\bin\Debug\netcoreapp3.1\ArtigoPOO3.exe
+D:\pessoal\curso_csharp\SystemPDV_new\ArtigoPOO3\bin\Debug\netcoreapp3.1\ArtigoPOO3.deps.json
+D:\pessoal\curso_csharp\SystemPDV_new\ArtigoPOO3\bin\Debug\netcoreapp3.1\ArtigoPOO3.runtimeconfig.json
+D:\pessoal\curso_csharp\SystemPDV_new\ArtigoPOO3\bin\Debug\netcoreapp3.1\ArtigoPOO3.runtimeconfig.dev.json
+D:\pessoal\curso_csharp\SystemPDV_new\ArtigoPOO3\bin\Debug\netcoreapp3.1\ArtigoPOO3.dll
+D:\pessoal\curso_csharp\SystemPDV_new\ArtigoPOO3\bin\Debug\netcoreapp3.1\ArtigoPOO3.pdb
+D:\pessoal\curso_csharp\SystemPDV_new\ArtigoPOO3\obj\Debug\netcoreapp3.1\ArtigoPOO3.csproj.AssemblyReference.cache
+D:\pessoal\curso_csharp\SystemPDV_new\ArtigoPOO3\obj\Debug\netcoreapp3.1\ArtigoPOO3.Form1.resources
+D:\pessoal\curso_csharp\SystemPDV_new\ArtigoPOO3\obj\Debug\netcoreapp3.1\ArtigoPOO3.csproj.GenerateResource.cache
+D:\pessoal\curso_csharp\SystemPDV_new\ArtigoPOO3\obj\Debug\netcoreapp3.1\ArtigoPOO3.AssemblyInfoInputs.cache
+D:\pessoal\curso_csharp\SystemPDV_new\ArtigoPOO3\obj\Debug\netcoreapp3.1\ArtigoPOO3.AssemblyInfo.cs
+D:\pessoal\curso_csharp\SystemPDV_new\ArtigoPOO3\obj\Debug\netcoreapp3.1\ArtigoPOO3.csproj.CoreCompileInputs.cache
+D:\pessoal\curso_csharp\SystemPDV_new\ArtigoPOO3\obj\Debug\netcoreapp3.1\ArtigoPOO3.dll
+D:\pessoal\curso_csharp\SystemPDV_new\ArtigoPOO3\obj\Debug\netcoreapp3.1\ArtigoPOO3.pdb
+D:\pessoal\curso_csharp\SystemPDV_new\ArtigoPOO3\obj\Debug\netcoreapp3.1\ArtigoPOO3.genruntimeconfig.cache
+D:\pessoal\curso_csharp\SystemPDV_new\ArtigoPOO3\obj\Debug\netcoreapp3.1\ArtigoPOO3.Form_PDV_Pagamento.resources
